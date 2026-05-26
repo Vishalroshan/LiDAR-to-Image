@@ -2,8 +2,6 @@
 
 Projects Velodyne LiDAR point clouds onto camera images using the KITTI dataset calibration files, and renders the results as a video.
 
-https://github.com/user-attachments/assets/14c03e36-cc55-4d5d-b70a-2a8cfc93cc18
-
 ---
 
 ## What It Does
